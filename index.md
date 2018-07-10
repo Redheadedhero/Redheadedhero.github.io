@@ -7,6 +7,6 @@ Maybe down the road this will also host other various projects.
 Projects related to this course will be linkable here.
 
 # Project One
-Product:[Link](https://github.com/Redheadedhero/Summer-2018/tree/master/ProjectOne)
+My project:[Link](https://github.com/Redheadedhero/Summer-2018/tree/master/ProjectOne)
 Intended goal:[Link](https://codepen.io/akm2/pen/BonIh)
 
